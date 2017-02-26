@@ -1,0 +1,24 @@
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\bin\Debug\01_Klient.exe.config
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\01_Klient.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\_01_Klient.Form1.resources
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\_01_Klient.Properties.Resources.resources
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\01_Klient.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\bin\Debug\01_Klient.exe
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\bin\Debug\01_Klient.pdb
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\01_Klient.exe
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Klient\01_Klient\obj\Debug\01_Klient.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\01_Klient\01_Klient\bin\Debug\01_Klient.exe.config
+C:\Users\Szopa Mateusz\Desktop\C#\01_Klient\01_Klient\obj\Debug\01_Klient.exe
+C:\Users\Szopa Mateusz\Desktop\C#\01_Klient\01_Klient\obj\Debug\01_Klient.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\bin\Debug\01_Klient.exe.config
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\01_Klient.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\01_Klient.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\bin\Debug\01_Klient.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\bin\Debug\01_Klient.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\01_Klient.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\_01_Klient.Form1.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\_01_Klient.Properties.Resources.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Klient\01_Klient\obj\Debug\01_Klient.csproj.GenerateResource.Cache
+C:\Users\mateu\Source\Repos\client-server\01_Klient\01_Klient\bin\Debug\01_Klient.exe.config
+C:\Users\mateu\Source\Repos\client-server\01_Klient\01_Klient\obj\Debug\01_Klient.exe
+C:\Users\mateu\Source\Repos\client-server\01_Klient\01_Klient\obj\Debug\01_Klient.pdb
