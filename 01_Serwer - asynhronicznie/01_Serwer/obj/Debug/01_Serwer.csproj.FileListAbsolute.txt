@@ -1,0 +1,45 @@
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.pdb
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\_01_Serwer.Form1.resources
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\_01_Serwer.Properties.Resources.resources
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.pdb
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.csprojResolveAssemblyReference.cache
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe.config
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.exe
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.pdb
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\bin\Debug\01_Serwer.pdb
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.csprojResolveAssemblyReference.cache
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\_01_Serwer.Form1.resources
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\_01_Serwer.Properties.Resources.resources
+\\DRX-2\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP\01_Serwer\01_Serwer\obj\Debug\01_Serwer.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP_Async\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP_Async\01_Serwer\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\Marek\Desktop\Notatki\Specjalizacja\C#\WF\TCP_Async\01_Serwer\01_Serwer\obj\Debug\01_Serwer.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer\01_Serwer\obj\Debug\01_Serwer.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.exe
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.pdb
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\_01_Serwer.Form1.resources
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\_01_Serwer.Properties.Resources.resources
+C:\Users\Szopa Mateusz\Desktop\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.csproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.exe
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.pdb
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\_01_Serwer.Form1.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\_01_Serwer.Properties.Resources.resources
+C:\Users\mateu\Desktop\Programowanie\specka\C#\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.csproj.GenerateResource.Cache
+C:\Users\mateu\Source\Repos\client-server\01_Serwer - asynhronicznie\01_Serwer\bin\Debug\01_Serwer.exe.config
+C:\Users\mateu\Source\Repos\client-server\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.exe
+C:\Users\mateu\Source\Repos\client-server\01_Serwer - asynhronicznie\01_Serwer\obj\Debug\01_Serwer.pdb
